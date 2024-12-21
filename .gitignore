@@ -2,3 +2,4 @@ venv
 Dataset_raw
 Dataset_split
 Dataset_resized
+aug_data
